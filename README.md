@@ -126,6 +126,12 @@ El fusionador accepta tant arrays directes com objectes amb la clau `questions`:
 
 ---
 
+### Prova el joc inicial
+
+Pots provar la versió inicial del joc en aquest enllaç:
+
+👉 https://drfperez.github.io/kahoot
+
 ## 🔒 Privacitat i dades
 
 - Totes les preguntes es guarden exclusivament al dispositiu local (`localStorage` del navegador).
