@@ -25,6 +25,13 @@ Pensada per a l'aprenentatge cooperatiu: **cada alumne crea les seves preguntes,
 
 ## 📸 Captures de pantalla
 
+![imatge joc 1](kahoot1.jpg)
+![imatge joc 2](kahoot2.jpg)
+![imatge joc 3](kahoot3.jpg)
+![editor json joc](kahoot4.jpg)
+
+
+
 | Pantalla principal | Editor de preguntes | Joc en marxa |
 |-------------------|---------------------|--------------|
 | *(Menú amb botons: Jugar, Dissenyar, Fusionar, Exportar, Esborrar)* | *(Formulari amb camps de text, opcions i explicació)* | *(Quadrícula de 4 respostes de colors, feedback immediat)* |
