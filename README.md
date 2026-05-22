@@ -10,6 +10,14 @@ Pensada per a l'aprenentatge cooperatiu: **cada alumne crea les seves preguntes,
 
 ---
 
+## Prova el joc inicial
+
+Pots provar la versió inicial del joc en aquest enllaç:
+
+👉 https://drfperez.github.io/kahoot
+
+
+
 ## 🚀 Característiques principals
 
 - ✏️ **Disseny de preguntes** amb 4 opcions, resposta correcta i explicació teòrica.
@@ -126,11 +134,6 @@ El fusionador accepta tant arrays directes com objectes amb la clau `questions`:
 
 ---
 
-### Prova el joc inicial
-
-Pots provar la versió inicial del joc en aquest enllaç:
-
-👉 https://drfperez.github.io/kahoot
 
 ## 🔒 Privacitat i dades
 
