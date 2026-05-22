@@ -1,0 +1,224 @@
+[
+  {
+    "text": "Què és un exoplaneta?",
+    "options": [
+      "Un planeta del sistema solar",
+      "Un planeta que orbita una altra estrella",
+      "Un satèl·lit natural",
+      "Un asteroide"
+    ],
+    "correct": 1,
+    "explanation": "Un exoplaneta és un planeta fora del sistema solar, que orbita una altra estrella."
+  },
+  {
+    "text": "Quin mètode ha descobert la majoria d'exoplanetes?",
+    "options": [
+      "Imatge directa",
+      "Velocitat radial",
+      "Trànsit",
+      "Microlent gravitatòria"
+    ],
+    "correct": 2,
+    "explanation": "El mètode de trànsit, utilitzat per missions com Kepler i TESS, ha trobat la major part d'exoplanetes."
+  },
+  {
+    "text": "Quin va ser el primer exoplaneta descobert orbitant una estrella de tipus solar?",
+    "options": [
+      "Proxima Centauri b",
+      "51 Pegasi b",
+      "PSR B1257+12 b",
+      "HD 209458 b"
+    ],
+    "correct": 1,
+    "explanation": "51 Pegasi b, descobert el 1995 per Michel Mayor i Didier Queloz, va ser el primer al voltant d'una estrella semblant al Sol."
+  },
+  {
+    "text": "Com s'anomena la zona al voltant d'una estrella on pot existir aigua líquida a la superfície?",
+    "options": [
+      "Zona de radiació",
+      "Zona habitable",
+      "Zona de convecció",
+      "Zona de marea"
+    ],
+    "correct": 1,
+    "explanation": "La zona habitable és la regió amb temperatures que permeten aigua líquida."
+  },
+  {
+    "text": "Quin exoplaneta és el més proper a la Terra?",
+    "options": [
+      "Proxima Centauri b",
+      "Barnard b",
+      "TRAPPIST-1e",
+      "Kepler-452b"
+    ],
+    "correct": 0,
+    "explanation": "Proxima Centauri b orbita l'estrella més propera al Sol, a 4,2 anys llum."
+  },
+  {
+    "text": "Quin telescopi espacial va descobrir milers d'exoplanetes mitjançant el mètode de trànsit entre 2009 i 2018?",
+    "options": [
+      "Hubble",
+      "TESS",
+      "Kepler",
+      "CHEOPS"
+    ],
+    "correct": 2,
+    "explanation": "Kepler va observar una petita regió del cel i va trobar més de 2.600 exoplanetes confirmats."
+  },
+  {
+    "text": "Quin tipus d'exoplaneta és un gegant gasós molt a prop de la seva estrella?",
+    "options": [
+      "Super-Terra",
+      "Neptú fred",
+      "Júpiter calent",
+      "Planeta terrestre"
+    ],
+    "correct": 2,
+    "explanation": "Un Júpiter calent és un gegant gasós que orbita a poca distància, amb temperatures elevades."
+  },
+  {
+    "text": "El sistema TRAPPIST-1 té quants planetes de mida terrestre?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correct": 2,
+    "explanation": "TRAPPIST-1 conté set planetes rocosos, alguns a la zona habitable."
+  },
+  {
+    "text": "Quin fenomen s'observa quan un exoplaneta passa per davant de la seva estrella?",
+    "options": [
+      "Microlent",
+      "Trànsit",
+      "Eclipsi lunar",
+      "Rotació"
+    ],
+    "correct": 1,
+    "explanation": "Un trànsit és la disminució de brillantor de l'estrella quan el planeta passa al davant."
+  },
+  {
+    "text": "Quin instrument del telescopi espacial James Webb és clau per analitzar atmosferes d'exoplanetes?",
+    "options": [
+      "NIRCam",
+      "MIRI",
+      "NIRSpec",
+      "FGS"
+    ],
+    "correct": 2,
+    "explanation": "NIRSpec permet espectroscòpia de trànsit per detectar molècules a les atmosferes."
+  },
+  {
+    "text": "Què és una super-Terra?",
+    "options": [
+      "Un planeta més massiu que la Terra però menys que Neptú",
+      "Un planeta amb vida",
+      "Un planeta dins la zona habitable",
+      "Un satèl·lit"
+    ],
+    "correct": 0,
+    "explanation": "Super-Terra designa planetes rocosos o de composició mixta amb massa entre 1 i 10 masses terrestres."
+  },
+  {
+    "text": "Quin mètode detecta exoplanetes mesurant petites variacions en la velocitat de l'estrella?",
+    "options": [
+      "Trànsit",
+      "Imatge directa",
+      "Velocitat radial",
+      "Astrometria"
+    ],
+    "correct": 2,
+    "explanation": "La velocitat radial detecta el balanceig de l'estrella causat per la gravetat del planeta."
+  },
+  {
+    "text": "Aproximadament quants exoplanetes estan confirmats a data de 2026?",
+    "options": [
+      "Uns 500",
+      "Uns 2.000",
+      "Uns 5.500",
+      "Més de 6.000"
+    ],
+    "correct": 3,
+    "explanation": "El nombre d'exoplanetes confirmats supera els 6.000 gràcies a missions com Kepler i TESS."
+  },
+  {
+    "text": "Quin exoplaneta va ser el primer on es va detectar atmosfera?",
+    "options": [
+      "51 Pegasi b",
+      "HD 209458 b",
+      "Proxima Centauri b",
+      "TRAPPIST-1e"
+    ],
+    "correct": 1,
+    "explanation": "HD 209458 b, també conegut com Osiris, va ser el primer amb detecció d'atmosfera (sodi) el 2001."
+  },
+  {
+    "text": "Quina missió actual cerca exoplanetes per trànsit cobrint gairebé tot el cel?",
+    "options": [
+      "Kepler",
+      "TESS",
+      "PLATO",
+      "Gaia"
+    ],
+    "correct": 1,
+    "explanation": "TESS (Transiting Exoplanet Survey Satellite) escaneja quasi tot el cel buscant trànsits."
+  },
+  {
+    "text": "Què és l'efecte de microlent gravitatòria?",
+    "options": [
+      "Una lent de telescopi",
+      "Una desviació de la llum d'una estrella de fons per la gravetat d'un sistema planetari",
+      "Un mètode d'imatge directa",
+      "Una lent de microscopi"
+    ],
+    "correct": 1,
+    "explanation": "La microlent gravitatòria amplifica la llum quan un objecte massiu passa per davant, revelant planetes."
+  },
+  {
+    "text": "Al voltant de quin tipus d'estrella és més fàcil detectar planetes petits amb trànsit?",
+    "options": [
+      "Gegant blava",
+      "Nana groga (tipus Sol)",
+      "Nana roja",
+      "Supergegant"
+    ],
+    "correct": 2,
+    "explanation": "Les nanes roges, més petites i menys brillants, permeten detectar planetes terrestres amb trànsits més profunds."
+  },
+  {
+    "text": "Quin exoplaneta es troba a la zona habitable d'una estrella similar al Sol i ha estat comparat amb la Terra?",
+    "options": [
+      "Kepler-452b",
+      "TRAPPIST-1f",
+      "LHS 1140 b",
+      "TOI-700 d"
+    ],
+    "correct": 0,
+    "explanation": "Kepler-452b, descobert per Kepler, orbita una estrella tipus G i és anomenat 'cosí de la Terra'."
+  },
+  {
+    "text": "Què estudia l'espectroscòpia de trànsit?",
+    "options": [
+      "La massa del planeta",
+      "La composició de l'atmosfera",
+      "El camp magnètic estel·lar",
+      "La temperatura interior"
+    ],
+    "correct": 1,
+    "explanation": "Analitzant la llum filtrada durant un trànsit es poden identificar molècules atmosfèriques."
+  },
+  {
+    "text": "La missió europea PLATO tindrà com a objectiu principal:",
+    "options": [
+      "Observar exoplanetes amb imatge directa",
+      "Buscar exoplanetes rocosos en zones habitables d'estrelles brillants",
+      "Estudiar el Sol",
+      "Mapejar la Via Làctia"
+    ],
+    "correct": 1,
+    "explanation": "PLATO (PLAnetary Transits and Oscillations of stars) cercarà planetes terrestres en òrbites habitables."
+  }
+]
+
+
